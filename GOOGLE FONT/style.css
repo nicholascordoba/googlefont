@@ -1,0 +1,10 @@
+body { background-color: orange;
+          color: #000000;
+        }
+h1
+          {font-size: 65px;
+          color: #765643;
+          text-align: center;
+          line-height: 300%;
+          font-family: 'Merriweather', serif;
+          }
